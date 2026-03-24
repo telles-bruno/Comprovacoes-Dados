@@ -52,9 +52,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se livre para abrir uma issue ou pull request com sugestões de melhoria ou novos exercícios.
 
 ## 📜 Licença
 
