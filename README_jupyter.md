@@ -3,7 +3,6 @@
 
 Este projeto contém um notebook com exercícios práticos de análise de dados utilizando **Python**, com foco em **pandas**, **NumPy**, **matplotlib** e **seaborn**.
 
-O conteúdo é ideal para estudantes e iniciantes que desejam colocar em prática fundamentos da manipulação, visualização e análise exploratória de dados.
 
 ## 🧰 Tecnologias utilizadas
 
